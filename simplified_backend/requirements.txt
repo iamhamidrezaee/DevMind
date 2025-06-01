@@ -1,0 +1,20 @@
+# DevMind Simplified Backend - Core Dependencies
+# Optimized for hackathon development
+
+# FastAPI and ASGI server
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+websockets==12.0
+
+# Claude Sonnet 4 integration
+anthropic==0.7.8
+
+# Data handling
+pydantic==2.5.0
+
+# For CORS and middleware
+python-dotenv==1.0.0
+
+# Optional: For enhanced development
+httpx==0.25.2  # For making HTTP requests if needed

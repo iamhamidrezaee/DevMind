@@ -1,0 +1,6 @@
+gradio==5.32.0
+plotly==5.22.0
+networkx==3.3
+requests==2.32.3
+anthropic==0.52.1
+python-dotenv==1.0.1
